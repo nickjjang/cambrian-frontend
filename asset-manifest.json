@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.a99a4d35.chunk.css",
-    "main.js": "/static/js/main.9cb18ed1.chunk.js",
-    "main.js.map": "/static/js/main.9cb18ed1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1ed1402f.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1ed1402f.js.map",
-    "static/js/2.2f3a68ce.chunk.js": "/static/js/2.2f3a68ce.chunk.js",
-    "static/js/2.2f3a68ce.chunk.js.map": "/static/js/2.2f3a68ce.chunk.js.map",
-    "static/js/3.fee1c848.chunk.js": "/static/js/3.fee1c848.chunk.js",
-    "static/js/3.fee1c848.chunk.js.map": "/static/js/3.fee1c848.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.a99a4d35.chunk.css.map": "/static/css/main.a99a4d35.chunk.css.map",
-    "static/js/2.2f3a68ce.chunk.js.LICENSE.txt": "/static/js/2.2f3a68ce.chunk.js.LICENSE.txt",
-    "static/media/ephochs.83249bdc.png": "/static/media/ephochs.83249bdc.png"
+    "main.css": "/cambrian-frontend/static/css/main.a99a4d35.chunk.css",
+    "main.js": "/cambrian-frontend/static/js/main.a1be5c77.chunk.js",
+    "main.js.map": "/cambrian-frontend/static/js/main.a1be5c77.chunk.js.map",
+    "runtime-main.js": "/cambrian-frontend/static/js/runtime-main.0f81379a.js",
+    "runtime-main.js.map": "/cambrian-frontend/static/js/runtime-main.0f81379a.js.map",
+    "static/js/2.2f3a68ce.chunk.js": "/cambrian-frontend/static/js/2.2f3a68ce.chunk.js",
+    "static/js/2.2f3a68ce.chunk.js.map": "/cambrian-frontend/static/js/2.2f3a68ce.chunk.js.map",
+    "static/js/3.fee1c848.chunk.js": "/cambrian-frontend/static/js/3.fee1c848.chunk.js",
+    "static/js/3.fee1c848.chunk.js.map": "/cambrian-frontend/static/js/3.fee1c848.chunk.js.map",
+    "index.html": "/cambrian-frontend/index.html",
+    "static/css/main.a99a4d35.chunk.css.map": "/cambrian-frontend/static/css/main.a99a4d35.chunk.css.map",
+    "static/js/2.2f3a68ce.chunk.js.LICENSE.txt": "/cambrian-frontend/static/js/2.2f3a68ce.chunk.js.LICENSE.txt",
+    "static/media/ephochs.83249bdc.png": "/cambrian-frontend/static/media/ephochs.83249bdc.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1ed1402f.js",
+    "static/js/runtime-main.0f81379a.js",
     "static/js/2.2f3a68ce.chunk.js",
     "static/css/main.a99a4d35.chunk.css",
-    "static/js/main.9cb18ed1.chunk.js"
+    "static/js/main.a1be5c77.chunk.js"
   ]
 }
