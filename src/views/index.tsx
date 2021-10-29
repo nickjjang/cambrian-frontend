@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { Route, Switch } from "react-router-dom";
 import MainLayout from "../layouts/MainLayout";
 import Home from "./Home";
@@ -8,6 +8,7 @@ const Pages = () => {
     <MainLayout>
       <Switch>
         <Route exact path="/" component={Home} />
+        <Route exact path="/cambrian-frontend" component={Home} />
       </Switch>
     </MainLayout>
   );

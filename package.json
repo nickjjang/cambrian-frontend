@@ -2,7 +2,7 @@
   "name": "cambrian-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nickjjang.github.io/cambrian-frontend",
+  "homepage": "https://nickjjang.github.io/cambrian-frontend",
   "dependencies": {
     "@craco/craco": "^6.4.0",
     "@headlessui/react": "^1.4.1",
