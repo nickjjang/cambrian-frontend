@@ -1,10 +1,17 @@
 import { MoonIcon, SunIcon } from "@heroicons/react/outline";
 import classNames from "classnames";
-import useTheme from "../../hooks/useTheme";
 import { NavLink } from "react-router-dom";
+import { useOnboardContext } from "../../context/OnboardContext";
+import useTheme from "../../hooks/useTheme";
 
 const Header = () => {
   const { isDark, toggleTheme } = useTheme();
+  const { setup, onboard } = useOnboardContext();
+
+  const handleConnectWallet = async () => {
+    onboard.config({ darkMode: isDark });
+    setup();
+  };
   return (
     <div
       className={classNames({
@@ -26,6 +33,7 @@ const Header = () => {
         </div>
         <div className={classNames({ "flex ": true })}>
           <button
+            onClick={handleConnectWallet}
             className={classNames({
               "h-10 border-2 px-4 rounded-full mr-2": true,
               "border-gray-400 hover:border-gray-100 text-gray-100": isDark,

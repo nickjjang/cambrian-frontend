@@ -1,5 +1,4 @@
 import classNames from "classnames";
-import imgEphochs from "../../assets/img/ephochs.png";
 
 const FutureWork = () => {
   return (
